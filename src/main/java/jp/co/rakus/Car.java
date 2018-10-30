@@ -1,7 +1,8 @@
 package jp.co.rakus;
 
 public class Car {
-	private Integer speed;
+	protected Integer speed;
+	protected String bodyColor;
 
 	public Integer getSpeed() {
 		return speed;
@@ -9,6 +10,14 @@ public class Car {
 
 	public void setSpeed(Integer speed) {
 		this.speed = speed;
+	}
+
+	public String getBodyColor() {
+		return bodyColor;
+	}
+
+	public void setBodyColor(String bodyColor) {
+		this.bodyColor = bodyColor;
 	}
 
 }
