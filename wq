@@ -1,0 +1,14 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will  ignored, and an empty message aborts the commit.
+
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   .mvn/wrapper/maven-wrapper.jar
+#	new file:   .mvn/wrapper/maven-wrapper.properties
+#	new file:   mvnw
+#	new file:   src/main/java/jp/co/rakus/GitSampleSaitoApplication.java
+#	new file:   src/main/resources/application.properties
+#	new file:   src/test/java/jp/co/rakus/GitSampleSaitoApplicationTests.java
+#
