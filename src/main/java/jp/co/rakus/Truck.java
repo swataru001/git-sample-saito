@@ -9,6 +9,6 @@ public class Truck extends Car {
 	}
 
 	public void speedUp(int speed) {
-		super.speed = super.speed + speed;
+		
 	}
 }
